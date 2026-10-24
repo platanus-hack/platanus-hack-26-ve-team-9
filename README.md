@@ -48,4 +48,6 @@ Your commits stay mirrored here for judging, while the deploy runs from the repo
 
 **Team setup:** after cloning, run `./scripts/setup-mirror.sh` (see [docs/DEPLOY-MIRROR.md](docs/DEPLOY-MIRROR.md)).
 
+**Branching:** `main` (deploy) ← `dev` (integration) ← `<type>/<name>` per implementation. See [docs/BRANCHING.md](docs/BRANCHING.md).
+
 Have fun! 🚀
