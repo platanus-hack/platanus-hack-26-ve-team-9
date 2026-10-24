@@ -46,4 +46,6 @@ code to a personal repo:
 
 Your commits stay mirrored here for judging, while the deploy runs from the repo you control.
 
+**Team setup:** after cloning, run `./scripts/setup-mirror.sh` (see [docs/DEPLOY-MIRROR.md](docs/DEPLOY-MIRROR.md)).
+
 Have fun! 🚀
